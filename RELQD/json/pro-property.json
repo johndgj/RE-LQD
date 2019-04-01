@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "propertyName": "贷款渠道",
+      "propertyKey": "LoanChannel",
+      "date": [
+        {
+          "propertyTitle": "不限",
+          "propertyValue": "0"
+        },
+        {
+          "propertyTitle": "银行",
+          "propertyValue": "1"
+        },
+        {
+          "propertyTitle": "担保公司",
+          "propertyValue": "2"
+        },
+        {
+          "propertyTitle": "保险公司",
+          "propertyValue": "3"
+        },
+        {
+          "propertyTitle": "交易所",
+          "propertyValue": "4"
+        },
+        {
+          "propertyTitle": "金融租赁",
+          "propertyValue": "5"
+        }
+      ]
+    },
+    {
+      "propertyName": "面向客户",
+      "propertyKey": "customerOriented",
+      "date": [
+        {
+          "propertyTitle": "不限",
+          "propertyValue": "0"
+        },
+        {
+          "propertyTitle": "大型企业",
+          "propertyValue": "1"
+        },
+        {
+          "propertyTitle": "中型企业",
+          "propertyValue": "2"
+        },
+        {
+          "propertyTitle": "小型企业",
+          "propertyValue": "3"
+        },
+        {
+          "propertyTitle": "微型企业",
+          "propertyValue": "4"
+        }
+      ]
+    },
+    {
+      "propertyName": "贷款期限",
+      "propertyKey": "loanTerm",
+      "date": [
+        {
+          "propertyTitle": "不限",
+          "propertyValue": "1"
+        },
+        {
+          "propertyTitle": "3个月及以下",
+          "propertyValue": "2"
+        },
+        {
+          "propertyTitle": "6个月及以下",
+          "propertyValue": "3"
+        },
+        {
+          "propertyTitle": "12个月及以下",
+          "propertyValue": "4"
+        },
+        {
+          "propertyTitle": "36个月及以下",
+          "propertyValue": "5"
+        },
+        {
+          "propertyTitle": "36个月以上",
+          "propertyValue": "6"
+        }
+      ]
+    },
+    {
+      "propertyName": "担保方式",
+      "propertyKey": "guaranteeMethod",
+      "date": [
+        {
+          "propertyTitle": "不限",
+          "propertyValue": "0"
+        },
+        {
+          "propertyTitle": "抵押",
+          "propertyValue": "1"
+        },
+        {
+          "propertyTitle": "质押",
+          "propertyValue": "2"
+        },
+        {
+          "propertyTitle": "信保基金",
+          "propertyValue": "3"
+        },
+        {
+          "propertyTitle": "一般保证",
+          "propertyValue": "4"
+        },
+        {
+          "propertyTitle": "信用",
+          "propertyValue": "5"
+        }
+      ]
+    },
+    {
+      "propertyName": "产品类型",
+      "propertyKey": "productType",
+      "date": [
+        {
+          "propertyTitle": "不限",
+          "propertyValue": "0"
+        },
+        {
+          "propertyTitle": "信用担保类产品",
+          "propertyValue": "1"
+        },
+        {
+          "propertyTitle": "非信用担保类产品",
+          "propertyValue": "2"
+        }
+      ]
+    },
+    {
+      "propertyName": "贷款额度",
+      "propertyKey": "loanLimit",
+      "date": [
+        {
+          "propertyTitle": "不限",
+          "propertyValue": "0"
+        },
+        {
+          "propertyTitle": "100万及以下",
+          "propertyValue": "1"
+        },
+        {
+          "propertyTitle": "200万及以下",
+          "propertyValue": "2"
+        },
+        {
+          "propertyTitle": "300万及以下",
+          "propertyValue": "3"
+        },
+        {
+          "propertyTitle": "500万及以下",
+          "propertyValue": "4"
+        },
+        {
+          "propertyTitle": "1000万及以下",
+          "propertyValue": "5"
+        },
+        {
+          "propertyTitle": "1000万以上",
+          "propertyValue": "6"
+        },
+        {
+          "propertyTitle": "其它金额",
+          "propertyValue": "7"
+        }
+      ]
+    }
+  ]
+}

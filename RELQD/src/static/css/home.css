@@ -1,0 +1,42 @@
+.index-banner{width:100%;height:740px;text-align:center;position:relative;}
+@media screen and (max-width:1441px){
+    .index-banner{background:url(../img/banner.png) no-repeat center center;}
+}
+
+/* 不大于1441px时，读取1440 */
+@media screen and (min-width:1441px){
+    .index-banner{background:url(../img/banner-1920.png) no-repeat center center;}
+}
+
+/*大于1441 读取1920*/
+.index-banner h2{display:inline-block;margin-top:283px;text-align:center;font-family:SourceHanSansSC-Heavy;font-size:54px;height:79px;line-height:79px;color:#FFFFFF;text-align:center;}
+.index-banner p{width:520px;display:block;margin:0 auto;line-height:26px;font-family:SourceHanSansSC-Medium;font-size:18px;color:#FFFFFF;text-align:center;text-shadow:0 2px 9px rgba(0,0,0,0.50);}
+.index-banner-down{width:156px;height:41px;background:url(../img/down.png) no-repeat;position:absolute;left:50%;margin-left:-78px;bottom:24px;}
+.index-tab1{padding-top:44px;padding-bottom:50px;}
+.index-tab1-l{width:476px;}
+.index-tab1-l p{font-family:SourceHanSansSC-Regular;font-size:18px;color:#212D3E;text-align:justify;line-height:30px;margin-bottom:40px;}
+.index-tab1-r{width:485px;font-family:SourceHanSansSC-Heavy;font-size:30px;color:#212D3E;}
+.index-tab2{height:340px;background:#93AACB;}
+.index-tab2-li{width:300px;height:240px;margin-top:50px;float:left;margin-right:60px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(86,98,102,0.50);border-radius:4px;}
+.index-tab2-li h2{font-family:SourceHanSansSC-Heavy;font-size:20px;color:#212D3E;}
+.index-tab2-li p{font-family:SourceHanSansSC-Regular;font-size:12px;color:#212D3E;line-height:18px;}
+.itb2-line{border:2px solid #57C5FF;width:31px;margin:9px 0 14px;border-radius:2px;}
+.index-tab3{height:234px;padding-top:106px;}
+.index-tab3-con{position:relative;width:922px;height:97px;font-family:SourceHanSansSC-Regular;font-size:20px;color:#212D3E;line-height:30px;}
+.itb3-l{width:36px;height:30px;display:inline-block;position:absolute;left:-48px;top:-30px;background:url(../img/itb3-l.png) no-repeat;}
+.itb3-r{width:36px;height:30px;display:inline-block;position:absolute;right:-48px;bottom:-30px;background:url(../img/itb3-r.png) no-repeat;}
+.index-tab3-name{margin-top:31px;position:relative;padding-left:74px;font-family:SourceHanSansSC-Regular;font-size:20px;color:#212D3E;}
+.itb3-line{width:57px;height:2px;background:#57C5FF;display:inline-block;position:absolute;left:0px;top:15px;}
+.index-tab4{height:1300px;background:#93AACB;position:relative;}
+.index-tab4-fl{width:490px;float:left;padding-top:50px;}
+.index-tab4-fr{width:490px;float:right;padding-top:235px;}
+.itb4-li{width:100%;height:489px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(86,98,102,0.50);border-radius:4px;margin-bottom:38px;}
+.itb4-img{width:450px;height:304px;}
+.itb4-li h2{font-family:SourceHanSansSC-Heavy;font-size:24px;color:#212D3E;text-align:justify;margin-top:6px;}
+.itb4-line{margin-top:5px;width:79px;height:4px;background-color:#57C5FF;border-radius:2px}
+.itb4-li p{margin-top:8px;font-family:SourceHanSansSC-Regular;font-size:14px;color:#212D3E;text-align:justify;}
+.itb4-line-top{width:392px;height:2px;background:#FFFFFF;position:absolute;right:0;top:128px;}
+.itb4-line-bottom{width:617px;height:2px;background:#FFFFFF;position:absolute;left:0;bottom:121px;}
+.index-tab1-1{height:305px;padding-top:95px;}
+.index-tab-h1{font-family:SourceHanSansSC-Regular;font-size:34px;color:#212D3E;text-align:center;line-height:49px;}
+.index-tab-p{font-family:SourceHanSansSC-Regular;font-size:14px;color:#212D3E;text-align:justify;line-height:30px;margin-top:50px;}

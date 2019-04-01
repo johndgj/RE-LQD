@@ -1,0 +1,22 @@
+.offer-bg{background:#EEF0F3;padding-top:20px;padding-bottom:10px;}
+.offer-li{width:100%;height:205px;margin-bottom:28px;background:#FAFAFA url(../img/blue-strip.png) top center no-repeat;box-shadow:0 6px 14px 0 rgba(189,211,218,0.70);border-radius:4px;}
+.offer-li-link{padding:4px 21px 21px 266px;position:relative;display:block;}
+.offer-li-img{position:absolute;left:20px;top:20px;width:218px;height:164px;box-shadow:0 6px 14px 0 rgba(86,98,102,0.50);border-radius:4px;}
+.offer-li-tit{height:42px;line-height:42px;position:relative;}
+.offer-li-tit h2{font-family:SourceHanSansSC-Bold;font-size:29px;color:#FEFEFE;letter-spacing:2px;line-height:42px;display:inline-block;}
+.offer-li-tit span{opacity:0.8;font-family:SourceHanSansSC-Medium;font-size:14px;color:#FFFFFF;letter-spacing:0;margin-left:25px;font-weight:100;}
+.offer-li-tit b{position:absolute;right:0;bottom:16px;opacity:0.8;font-family:SourceHanSansSC-Medium;font-size:14px;color:#FFFFFF;letter-spacing:0;text-align:right;font-weight:100}
+.offer-info{width:210px;float:left;}
+.offer-info span{font-family:SourceHanSansSC-Bold;font-size:14px;color:#4C5663;letter-spacing:0.5px;line-height:20px;margin-left:10px;}
+.offer-info h3{font-family:SourceHanSansSC-Medium;font-size:14px;color:#797979;margin-top:14px;line-height:20px;}
+.offer-info b{margin-top:1px;font-family:LeagueGothic-Regular;font-size:42px;letter-spacing:1.5px;font-weight:100;height:50px;line-height:50px;}
+.offer-tips span{font-family:SourceHanSansSC-Medium;font-size:14px;color:#BDC4CC;width:100px;}
+.offer-zt-line{height:12px;margin-top:6px;}
+.offer-pos{position:relative;padding-left:210px;}
+.offer-tits{opacity:0.8;font-family:SourceHanSansSC-Medium;font-size:14px;color:#FFFFFF;letter-spacing:0;}
+.offer-tits span{height:20px;line-height:20px;display:inline-block;}
+.offer-tits1{width:210px;float:left;}
+.offer-tits2{width:100px;float:left;}
+.offer-tits3{width:80px;float:right;}
+.trade-info1{font-family:SourceHanSansSC-Medium;font-size:14px;color:#797979;height:20px;line-height:20px;}
+.trade-info2{font-family:LeagueGothic-Regular;font-size:22px;letter-spacing:0.79px;}

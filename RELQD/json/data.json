@@ -1,0 +1,117 @@
+#9106 # 50526 示例接口 GET / example / 1522635989894 {
+    "string": "★★★★★★",
+    "number": 17,
+    "boolean": true,
+    "regexp": "fY2",
+    "function": 0.48253600490164716,
+    "array": [{
+        "foo": 1,
+        "bar": "★★★★★★"
+    }, {
+        "foo": 2,
+        "bar": "★★★★★★"
+    }, {
+        "foo": 3,
+        "bar": "★★★★"
+    }],
+    "items": [
+        1,
+        true,
+        "hello",
+        "BG8XqI2bot"
+    ],
+    "object": {
+        "foo": 1,
+        "bar": "★★★★"
+    },
+    "placeholder": "Vkpsprc Mrwr Gxuhqme Vqbpnuuvmi"
+}
+#9106 # 50566 产品列表 POST product {
+    "data": [{
+        "id": 1,
+        "title": "个人经营性贷款",
+        "date": "12-24个月",
+        "money": "1000万元",
+        "type": "不限"
+    }, {
+        "id": 1,
+        "title": "个人经营性贷款",
+        "date": "12-24个月",
+        "money": "1000万元",
+        "type": "不限"
+    }, {
+        "id": 1,
+        "title": "个人经营性贷款",
+        "date": "12-24个月",
+        "money": "1000万元",
+        "type": "不限"
+    }, {
+        "id": 1,
+        "title": "个人经营性贷款",
+        "date": "12-24个月",
+        "money": "1000万元",
+        "type": "不限"
+    }, {
+        "id": 1,
+        "title": "个人经营性贷款",
+        "date": "12-24个月",
+        "money": "1000万元",
+        "type": "不限"
+    }, {
+        "id": 1,
+        "title": "个人经营性贷款",
+        "date": "12-24个月",
+        "money": "1000万元",
+        "type": "不限"
+    }]
+}
+#9106 # 50578 产品属性 POST productsProperty {
+    "data": [{
+        "propertyName": "贷款渠道",
+        "propertyKey": "LoanChannel",
+        "date": [
+            { "propertyTitle": "不限", "propertyValue": "0" },
+
+            { "propertyTitle": "银行", "propertyValue": "0" }, { "propertyTitle": "担保公司", "propertyValue": "0" }, { "propertyTitle": "保险公司", "propertyValue": "0" }, { "propertyTitle": "交易所", "propertyValue": "0" }, { "propertyTitle": "金融租赁", "propertyValue": "0" }
+        ]
+    }, {
+        "propertyName": "面向客户",
+        "propertyKey": "LoanChannel",
+        "date": [{
+                "propertyTitle": "不限",
+                "propertyValue": "0"
+            },
+            { "propertyTitle": "大型企业", "propertyValue": "0" }, { "propertyTitle": "中型企业", "propertyValue": "0" }, { "propertyTitle": "小型企业", "propertyValue": "0" }, { "propertyTitle": "微型企业", "propertyValue": "0" }
+        ]
+    }, {
+        "propertyName": "贷款期限",
+        "propertyKey": "LoanChannel",
+        "date": [{"propertyTitle":"不限","propertyValue":"0"},{"propertyTitle":"3个月及以下","propertyValue":"0"},{"propertyTitle":"6个月及以下","propertyValue":"0"},{"propertyTitle":"12个月及以下","propertyValue":"0"},{"propertyTitle":"36个月及以下","propertyValue":"0"},{"propertyTitle":"36个月以上","propertyValue":"0"}]
+    }, {
+        "propertyName": "担保方式",
+        "propertyKey": "LoanChannel",
+        "date": [{"propertyTitle":"不限","propertyValue":"0"},{"propertyTitle":"抵押","propertyValue":"0"},{"propertyTitle":"质押","propertyValue":"0"},{"propertyTitle":"信保基金","propertyValue":"0"},{"propertyTitle":"一般保证","propertyValue":"0"},{"propertyTitle":"信用","propertyValue":"0"}]
+    }, {
+        "propertyName": "产品类型",
+        "propertyKey": "LoanChannel",
+        "date": [{
+            "propertyTitle": "不限",
+            "propertyValue": "0"
+        }, {
+            "propertyTitle": "信用担保类产品",
+            "propertyValue": "0"
+        }, {
+            "propertyTitle": "非信用担保类产品",
+            "propertyValue": "0"
+        }]
+    }, {
+        "propertyName": "贷款额度",
+        "propertyKey": "LoanChannel",
+        "date": [{"propertyTitle":"不限","propertyValue":"0"},{"propertyTitle":"100万及以下","propertyValue":"0"},{"propertyTitle":"200万及以下","propertyValue":"0"},{"propertyTitle":"300万及以下","propertyValue":"0"},{"propertyTitle":"500万及以下","propertyValue":"0"},{"propertyTitle":"1000万及以下","propertyValue":"0"},{"propertyTitle":"1000万以上","propertyValue":"0"},{"propertyTitle":"其它金额","propertyValue":"0"}]
+    }]
+}
+#9106 # 50586 登录成功 POST login {
+    "roles": "user",
+    "token": "5L2g5aW95ZWKIOivt+mXruS9oOaYr+iwgQ==",
+    "name": "SuperAdminE"
+}

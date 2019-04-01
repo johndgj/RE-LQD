@@ -1,0 +1,87 @@
+.detail-bg{background:#EEF0F3;padding-top:28px;padding-bottom:40px;}
+.det-tit h1{font-family:SourceHanSansSC-Bold;font-size:52px;line-height:75px;color:#212D3E;display:inline-block;}
+.det-tit-btn{border:0;cursor:pointer;width:130px;height:48px;line-height:48px;text-align:center;background-image:linear-gradient(-90deg,#94DAFF 0%,#57C5FF 100%);box-shadow:0 4px 10px 0 rgba(112,185,221,0.46);border-radius:4px;font-family:SourceHanSansSC-Bold;font-size:20px;color:#FFFFFF;text-align:center;float:right;margin-left:30px;margin-top:20px;}
+.det-tit-btn:hover{background-image:linear-gradient(-90deg,#94DAFF 60%,#57C5FF 100%);}
+.det-tit-btn2{border:0;cursor:pointer;width:130px;height:48px;line-height:48px;text-align:center;background-image:linear-gradient(-90deg,#FF9CA4 0%,#FF7474 100%);box-shadow:0 4px 10px 0 rgba(112,185,221,0.46);border-radius:4px;font-family:SourceHanSansSC-Bold;font-size:20px;color:#FFFFFF;text-align:center;float:right;margin-top:20px;}
+.det-tit-btn2:hover{background-image:linear-gradient(-90deg,#FF9CA4 60%,#FF7474 100%);}
+.det-tit-tips{padding-right:10px;}
+.det-tit-tips span{font-family:SourceHanSansSC-Medium;font-size:18px;color:#959DA8;text-align:center;}
+.detail-tab{width:500px;margin-top:56px;}
+.detab1{width:500px;height:200px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(189,211,218,0.70);border-radius:4px;margin-bottom:20px;}
+.detab2{width:100%;height:280px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(189,211,218,0.70);border-radius:4px;}
+.detab3{width:100%;height:138px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(189,211,218,0.70);border-radius:4px;margin-bottom:20px;}
+.detab4{width:100%;height:127px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(189,211,218,0.70);border-radius:4px;}
+.detab5{width:100%;height:211px;background:#FAFAFA;box-shadow:0 6px 14px 0 rgba(189,211,218,0.70);border-radius:4px;}
+.p15-3{padding:3px 15px;}
+.detb-tit{font-family:SourceHanSansSC-Bold;font-size:16px;color:#212D3E;line-height:24px;}
+.detb-tips{margin-top:5px;}
+.detb-tips span{font-family:SourceHanSansSC-Medium;font-size:10px;color:#797979;text-align:right;}
+.detb-money{margin-top:4px;}
+.detb-money span{font-family:LeagueGothic-Regular;font-size:28px;letter-spacing:-1px;}
+.det-jd{margin-top:2px;width:100%;height:6px;}
+.det-hctit{font-family:SourceHanSansSC-Medium;font-size:14px;color:#BDC4CC;margin-top:12px;}
+.det-char{width:225px;margin-top:19px;}
+.det-char-tips span{font-family:SourceHanSansSC-Medium;font-size:10px;color:#797979;text-align:right;}
+.detb-chart-tips{font-family:SourceHanSansSC-Medium;font-size:14px;color:#BDC4CC;}
+.dbt2-con{margin-top:7px;}
+.dbt2-con p{font-family:SourceHanSansSC-Medium;font-size:16px;color:#797979;line-height:24px;margin-bottom:25px;}
+.dbt3-line{height:1px;background:#EEF0F3;margin-top:3px;}
+.dbt3-ul{margin-top:10px;}
+.dbt3-ul li{height:40px;position:relative;padding-left:48px;line-height:40px;margin-bottom:15px;}
+.dbt3-ul li img{width:38px;height:38px;border-radius:19px;position:absolute;left:0;top:0;}
+.dbt3-ul-span1{font-family:SourceHanSansSC-Medium;font-size:16px;color:#212D3E;letter-spacing:0.5px;}
+.dbt3-ul-span2{font-family:LeagueGothic-Regular;font-size:16px;color:#57C5FF;letter-spacing:0.5px;text-align:right;position:absolute;right:10px;top:5px;}
+.dtb4-ul{margin-top:18px;}
+.dtb4-ul li{width:45%;float:left;height:54px;margin-right:8%;line-height:54px;text-align:left;font-family:SourceHanSansSC-Medium;font-size:18px;color:#212D3E;margin-bottom:20px;}
+.dtb4-ul li div{position:relative;padding-left:62px;}
+.dtb4-ul li img{width:44px;height:54px;position:absolute;left:0;top:3px;}
+.dtb4-btn{cursor:pointer;width:144px;height:48px;line-height:48px;border:0;font-family:SourceHanSansSC-Bold;font-size:20px;color:#FFFFFF;text-align:center;background-image:linear-gradient(-90deg,#94DAFF 0%,#57C5FF 100%);box-shadow:0 4px 10px 0 rgba(112,185,221,0.46);border-radius:4px;float:right;display:inline-block;}
+.dtb4-btn:hover{background-image:linear-gradient(-90deg,#94DAFF 60%,#57C5FF 100%);}
+.det-heng{width:2953px;height:280px;background:#EEF0F3;}
+.det-heng div{width:359px;height:270px;background-color:#5EC3ED;float:left;margin-right:10px;}
+.det-heng div img{width:100%;height:100%}
+.det-tit-place{padding-left:28px;background:url(../img/Shape-local.png) no-repeat left center;}
+.detbe3{margin-left:5px;margin-top:18px;}
+.detbe3 div{float:left;}
+.detbe3 div h2{font-family:SourceHanSansSC-Medium;font-size:14px;color:#797979;line-height:20px;}
+.detbe3 div p{font-family:SourceHanSansSC-Bold;font-size:30px;color:#4C5663;letter-spacing:0.86px;line-height:44px;}
+.detbe3-w1{width:240px;}
+.detbe3-w2{width:240px;}
+.detbe3-w3{width:240px;}
+.w240{width:240px;}
+.offer-sak-d{width:210px;}
+.offer-sak-d h3{font-family:SourceHanSansSC-Medium;font-size:14px;color:#797979;margin-top:14px;line-height:20px;}
+.offer-sak-d b{margin-top:1px;font-family:LeagueGothic-Regular;font-size:32px;letter-spacing:1px;font-weight:100;height:38px;line-height:38px;}
+.offer-info{width:210px;float:left;}
+.offer-info span{font-family:SourceHanSansSC-Bold;font-size:14px;color:#4C5663;letter-spacing:0.5px;line-height:20px;margin-left:10px;}
+.offer-info h3{font-family:SourceHanSansSC-Medium;font-size:14px;color:#797979;margin-top:14px;line-height:20px;}
+.offer-info b{margin-top:1px;font-family:LeagueGothic-Regular;font-size:42px;letter-spacing:1.5px;font-weight:100;height:50px;line-height:50px;}
+.buy-div{width:456px;min-height:330px;}
+.buy-tit{font-family:SourceHanSansSC-Medium;font-size:16px;color:#93AACB;line-height:24px;}
+.buy-con{text-align:center;width:456px;height:61px;background:#EEF0F3;box-shadow:inset 0 1px 3px 0 rgba(147,170,203,0.50);border-radius:4px;margin-top:8px;padding-top:3px;}
+.buy-mon{height:38px;line-height:38px;}
+.buy-mon span{font-family:LeagueGothic-Regular;font-size:32px;letter-spacing:2.82px;text-align:right;}
+.buy-time{font-family:SourceHanSansSC-Medium;font-size:14px;color:#93AACB;line-height:20px;}
+.buy-con2{width:456px;height:56px;margin-top:8px;background:#EEF0F3;box-shadow:inset 0 1px 3px 0 rgba(147,170,203,0.50);border-radius:4px;margin-bottom:18px;}
+.addus{width:32px;height:32px;position:absolute;right:10px;top:12px;background:url(../img/addus.png) no-repeat;cursor:pointer;}
+.minus{width:32px;height:32px;position:absolute;left:10px;top:12px;background:url(../img/minus.png) no-repeat;cursor:pointer;}
+.buy-con-input{height:56px;line-height:56px;font-family:SourceHanSansSC-Bold;font-size:50px;color:#212D3E;letter-spacing:-0.16px;text-align:center;width:100%;background-color:#EEF0F3;border:0;}
+.buy-con-tips{height:24px;line-height:24px;}
+.buy-con-tips span{font-family:SourceHanSansSC-Medium;font-size:16px;color:#93AACB;}
+.buy-con-btn{display:block;margin-top:16px;width:100%;height:48px;line-height:48px;background-image:linear-gradient(-90deg,#94DAFF 0%,#57C5FF 100%);box-shadow:0 4px 10px 0 rgba(112,185,221,0.46);border-radius:4px;font-family:SourceHanSansSC-Bold;font-size:20px;color:#FFFFFF;text-align:center;cursor:pointer;}
+.buy-con-btn:hover{background-image:linear-gradient(-90deg,#94DAFF 60%,#57C5FF 100%);}
+.loading{margin:0 auto;position:relative;}
+.loading span{display:inline-block;position:absolute;width:22px;top:100px;height:100px;border-radius:4px;background:#eef0f3;-webkit-animation:load 1s ease infinite;}
+@-webkit-keyframes load{
+    0%,100%{top:100px;background:#eef0f3;}
+    50%{top:50px;background:#57c5ff;}
+}
+.loading span:nth-child(1){-webkit-animation-delay:0.4s;}
+.loading span:nth-child(2){-webkit-animation-delay:0.6s;}
+.loading span:nth-child(3){-webkit-animation-delay:0.8s;}
+.load1{left:170px}
+.load2{left:220px}
+.load3{left:270px}
+.tcbuy-success-p{font-family:SourceHanSansSC-Regular;font-size:25px;color:#93AACB;letter-spacing:-0.08px;text-align:center;height:36px;line-height:36px;}
+.tcbuy-success-btn{display:block;border:0;width:100%;height:48px;line-height:48px;background-image:linear-gradient(-90deg,#94DAFF 0%,#57C5FF 100%);box-shadow:0 4px 10px 0 rgba(112,185,221,0.46);border-radius:4px;font-family:SourceHanSansSC-Bold;font-size:20px;color:#FFFFFF;text-align:center;cursor:pointer;margin-top:45px;}
+.tcbuy-success-btn:hover{background-image:linear-gradient(-90deg,#94DAFF 60%,#57C5FF 100%);}
