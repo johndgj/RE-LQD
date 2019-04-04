@@ -1,0 +1,1 @@
+{"abi":[{"constant":false,"inputs":[{"name":"newOwner","type":"address"},{"name":"tokenAddress","type":"address"},{"name":"controllerAddress","type":"address"}],"name":"deployConverter","outputs":[{"name":"converterAddress","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]}
